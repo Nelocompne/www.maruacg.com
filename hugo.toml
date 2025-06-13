@@ -1,0 +1,4 @@
+baseURL = 'https://www.maruacg.com/'
+languageCode = 'zh-cn'
+title = 'Gallery'
+theme = 'gallery'
